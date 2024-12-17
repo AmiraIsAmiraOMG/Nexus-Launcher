@@ -1,3 +1,5 @@
+# ***IN DEVELOPMENT NON FUNCTIONAL AS OF NOW***
+
 # 🎮 NexusGUI - Fortnite Launcher
 
 Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives you the freedom to play your way! Whether you want to bypass anti-cheat, explore old and new game versions, inject custom mods or DLLs, or join custom multiplayer servers, NexusGUI has you covered.

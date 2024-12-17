@@ -1,113 +1,85 @@
-# 🎮 Fortnite Launcher [Unofficial]
+# 🎮 NexusGUI - Fortnite Launcher
 
-**A powerful, feature-rich Fortnite launcher** that lets you play Fortnite without anti-cheat, launch various game versions (including the latest), use mods, inject DLLs, and enjoy multiplayer — all through an intuitive GUI.
-
----
-
-## 🚀 Features
-
-- **Launch Without Anti-Cheat**: Bypass Fortnite's anti-cheat system and play in offline mode or modded environments.
-- **Version Compatibility**: Supports launching most Fortnite versions, including the latest.
-- **Mod Support**: Add custom mods to enhance gameplay or visuals.
-- **DLL Injection**: Inject custom DLLs to modify game behavior.
-- **Multiplayer**: Join private or custom servers for multiplayer gameplay.
-- **Intuitive GUI**: Easy-to-use graphical interface for seamless launching and customization.
+Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives you the freedom to play your way! Whether you want to bypass anti-cheat, explore old and new game versions, inject custom mods or DLLs, or join custom multiplayer servers, NexusGUI has you covered.
 
 ---
 
-## 🖥️ Screenshot
+## 🚀 What Nexus Can Do
 
-![Launcher Screenshot](assets/screenshot.png)
+- **Launch Without Anti-Cheat**: Play offline or in custom environments without worrying about anti-cheat.
+- **Supports Most Versions**: Launch almost any Fortnite version, including the latest.
+- **Mod Support**: Customize your gameplay with `.rift`, `.pak` & `.nexus` mods.
+- **DLL Injection**: Add functionality or tweaks by injecting DLLs on launch.
+- **Custom Multiplayer**: Join private servers and play with friends outside the official ecosystem.
+- **Intuitive GUI**: No need to deal with command lines — everything is in a simple and friendly interface.
 
 ---
 
-## 📦 Installation
+## 📦 Getting Started
 
 ### Prerequisites
 
 - **Windows 10/11**
 - **.NET Framework 4.8** or higher
-- **Fortnite Installed** (Official or Custom Install)
+- Fortnite installed (official or custom installation)
 
-### Download
+### Installation
 
-1. Go to the [Releases](https://github.com/yourusername/fortnite-launcher/releases) page.
-2. Download the latest version of the launcher (`FortniteLauncher.zip`).
-
-### Setup
-
-1. Extract the `FortniteLauncher.zip` to a directory of your choice.
-2. Run `FortniteLauncher.exe`.
+1. Download the latest version of NexusGUI from the [Releases](https://github.com/yourusername/nexusgui/releases) page.
+2. Extract the downloaded `.zip` file to your desired location.
+3. Run `NexusGUI.exe`.
 
 ---
 
-## 🕹️ Usage
+## 🕹️ How to Use Nexus
 
-1. **Launch the Launcher**  
-   Double-click `FortniteLauncher.exe` to open the GUI.
+1. **Launch Nexus**:  
+   Open `NexusGUI.exe` to access the interface.
 
-2. **Select Fortnite Version**  
-   Choose the Fortnite version you want to launch from the dropdown.
+2. **Choose Your Version**:  
+   Select the Fortnite version you want to launch from the settings page.
 
-3. **Enable/Disable Features**  
-   - **Launch Without Anti-Cheat**: Toggle the checkbox to bypass anti-cheat.
-   - **Mods**: Add custom mod files (`.pak`).
-   - **DLL Injection**: Select DLL files to inject on launch.
-   - **Multiplayer**: Connect to custom servers by entering the server IP.
-
-4. **Launch the Game**  
-   Click the `Launch` button to start Fortnite with your selected options.
-
----
-
-## ⚙️ Configuration Options
-
-- **Game Directory**: Set the path to your Fortnite installation.
-- **Mod Directory**: Set the folder where your mods are stored.
-- **DLL Injection**: Manage DLL files to inject at runtime.
-- **Multiplayer Settings**: Configure private server connections.
+3. **Click Launch**:  
+   Hit the `Launch` button and enjoy Fortnite, your way!
 
 ---
 
 ## 🛠️ Troubleshooting
 
-- **Game Doesn't Launch**:  
-  Ensure your Fortnite installation path is correct in the settings.
+- **Game Won't Launch**:  
+  Check that your Fortnite installation path is correct in the settings.
 
-- **Mods Not Loading**:  
-  Check that your mod files are in the correct format (`.pak`) and placed in the correct directory.
+- **Mods Not Working**:  
+  Ensure your mods are in `.pak` format and placed in the correct directory if they were a `.rift` or `.nexus` make sure they were installed via the launcher.
 
-- **DLL Injection Fails**:  
-  Make sure the DLL files are not blocked by Windows Defender. Right-click the DLL, go to Properties, and click "Unblock" if necessary.
+- **DLL Injection Issues**:  
+  If DLL injection fails, check if Windows Defender is enabled if it is disable realtime protection.
 
-- **Anti-Cheat Bypass Issues**:  
-  Some versions of the game may have stricter anti-cheat checks. Ensure you're launching in offline or custom server mode.
+- **Anti-Cheat Bypass Not Working**:  
+  Some versions might have stricter checks. Ensure you’re launching in offline mode or using custom servers.
+
+---
+
+## 📫 Need Help?
+
+Join our **Discord community** for support, discussions, and updates:
+
+👉 [Join the Nexus Utilites Discord](https://discord.gg/gZZtysUAp3)
+
+We'd love to hear from you!
 
 ---
 
 ## ⚠️ Disclaimer
 
-This launcher is **not affiliated with Epic Games or Fortnite**. Use this tool at your own risk. Modifying game files or bypassing anti-cheat may result in a ban if used online in official servers. This tool is intended for **educational and offline use only**.
+**NexusGUI is not affiliated with Epic Games or Fortnite**. This tool is for educational and offline use only. Using it to modify the game or bypass anti-cheat on official servers may result in a ban. Please use responsibly!
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **GNU Lesser General Public License v2.1 (LGPL-2.1)**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 👨‍💻 Contributors
-
-- **[Your Name]** - Creator and Maintainer
-- **[Contributor Name]** - Special thanks for contributions
-
----
-
-## 📫 Contact
-
-For support, suggestions, or issues, please open an [Issue](https://github.com/yourusername/fortnite-launcher/issues) or contact me via email at `your.email@example.com`.
-
----
-
-### ⭐ If you like this project, consider giving it a star!
+### 🌟 If you love NexusGUI, give us a star on GitHub and help us grow!

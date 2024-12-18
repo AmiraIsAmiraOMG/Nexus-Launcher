@@ -129,5 +129,10 @@ namespace Nexus_Launcher
         {
             LoadDefaultPage(new LaunchPage());
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            LoadDefaultPage(new SettingsPage());
+        }
     }
 }

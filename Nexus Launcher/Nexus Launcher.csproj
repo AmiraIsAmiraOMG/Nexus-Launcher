@@ -195,6 +195,12 @@
     <Compile Include="Screens\DllInjectionPage.Designer.cs">
       <DependentUpon>DllInjectionPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="Screens\DownloadingAssets.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Screens\DownloadingAssets.Designer.cs">
+      <DependentUpon>DownloadingAssets.cs</DependentUpon>
+    </Compile>
     <Compile Include="Screens\Key.cs">
       <SubType>UserControl</SubType>
     </Compile>

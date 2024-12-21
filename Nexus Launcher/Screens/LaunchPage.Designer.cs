@@ -48,7 +48,7 @@
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label1.Font = new System.Drawing.Font("Cascadia Code", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(32, 376);
+            this.label1.Location = new System.Drawing.Point(32, 387);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(521, 35);
             this.label1.TabIndex = 4;
@@ -61,7 +61,7 @@
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label2.Font = new System.Drawing.Font("Cascadia Code", 15F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(33, 268);
+            this.label2.Location = new System.Drawing.Point(33, 279);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(521, 27);
             this.label2.TabIndex = 5;
@@ -73,7 +73,7 @@
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label3.Font = new System.Drawing.Font("Cascadia Code", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(33, 295);
+            this.label3.Location = new System.Drawing.Point(33, 306);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(521, 35);
             this.label3.TabIndex = 6;
@@ -86,7 +86,7 @@
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label5.Font = new System.Drawing.Font("Cascadia Code", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(32, 411);
+            this.label5.Location = new System.Drawing.Point(32, 422);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(527, 35);
             this.label5.TabIndex = 8;
@@ -113,7 +113,7 @@
             this.button1.ImageExpand = new System.Drawing.Point(0, 0);
             this.button1.ImageOffset = new System.Drawing.Point(0, 0);
             this.button1.ImageTint = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(24, 461);
+            this.button1.Location = new System.Drawing.Point(24, 472);
             this.button1.Name = "button1";
             this.button1.NormalBackground = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.button1.NormalOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))), ((int)(((byte)(249)))));
@@ -147,7 +147,7 @@
             this.cuiButton1.ImageExpand = new System.Drawing.Point(0, 0);
             this.cuiButton1.ImageOffset = new System.Drawing.Point(0, 0);
             this.cuiButton1.ImageTint = System.Drawing.Color.White;
-            this.cuiButton1.Location = new System.Drawing.Point(24, 254);
+            this.cuiButton1.Location = new System.Drawing.Point(24, 265);
             this.cuiButton1.Name = "cuiButton1";
             this.cuiButton1.NormalBackground = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.cuiButton1.NormalOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))), ((int)(((byte)(249)))));
@@ -180,7 +180,7 @@
             this.cuiButton2.ImageExpand = new System.Drawing.Point(0, 0);
             this.cuiButton2.ImageOffset = new System.Drawing.Point(0, 0);
             this.cuiButton2.ImageTint = System.Drawing.Color.White;
-            this.cuiButton2.Location = new System.Drawing.Point(24, 365);
+            this.cuiButton2.Location = new System.Drawing.Point(24, 376);
             this.cuiButton2.Name = "cuiButton2";
             this.cuiButton2.NormalBackground = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.cuiButton2.NormalOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))), ((int)(((byte)(249)))));
@@ -232,7 +232,7 @@
             this.cuiButton3.PressedImageTint = System.Drawing.Color.White;
             this.cuiButton3.PressedOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(255)))), ((int)(((byte)(211)))), ((int)(((byte)(255)))));
             this.cuiButton3.Rounding = new System.Windows.Forms.Padding(20);
-            this.cuiButton3.Size = new System.Drawing.Size(366, 499);
+            this.cuiButton3.Size = new System.Drawing.Size(366, 510);
             this.cuiButton3.TabIndex = 18;
             this.cuiButton3.TextOffset = new System.Drawing.Point(0, 0);
             // 
@@ -279,7 +279,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cuiButton1);
             this.Name = "LaunchPage";
-            this.Size = new System.Drawing.Size(985, 551);
+            this.Size = new System.Drawing.Size(985, 558);
             this.Load += new System.EventHandler(this.LaunchPage_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

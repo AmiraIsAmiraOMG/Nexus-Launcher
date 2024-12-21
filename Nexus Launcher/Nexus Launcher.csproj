@@ -52,7 +52,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CuoreUI, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CuoreUI.Winforms.2024.12.7.1\lib\netstandard2.0\CuoreUI.dll</HintPath>
+      <HintPath>..\packages\CuoreUI.Winforms.2024.12.16\lib\netstandard2.0\CuoreUI.dll</HintPath>
     </Reference>
     <Reference Include="Discord.Net.Commands, Version=3.16.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Discord.Net.Commands.3.16.0\lib\net461\Discord.Net.Commands.dll</HintPath>

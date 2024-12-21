@@ -13,8 +13,8 @@ namespace Nexus_Launcher.Screens
 {
     public partial class LoginPage : UserControl
     {
-        private const string clientId = "1312481188358918184"; // Your Discord application Client ID
-        private const string clientSecret = "PA2fUqt9fMyBMg3JV2oO-ITuIrt9brSe"; // Your Discord application Client Secret
+        private const string clientId = "OMMITED"; // Your Discord application Client ID
+        private const string clientSecret = "OMMITED"; // Your Discord application Client Secret
         private const string redirectUri = "http://localhost:4999/callback";  // Changed to port 4999
 
         public LoginPage()

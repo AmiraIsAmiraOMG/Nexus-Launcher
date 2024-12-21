@@ -28,80 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoadingPage));
-            this.label4 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.cuiSpinner1 = new CuoreUI.Controls.cuiSpinner();
             this.SuspendLayout();
             // 
-            // label4
+            // cuiSpinner1
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Cascadia Code", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(127, 94);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(191, 35);
-            this.label4.TabIndex = 16;
-            this.label4.Text = "SamIsSamOMG";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Cascadia Code", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(19, 94);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(79, 35);
-            this.label8.TabIndex = 15;
-            this.label8.Text = "beta";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Cascadia Code", 72F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(3, -18);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(334, 127);
-            this.label9.TabIndex = 14;
-            this.label9.Text = "NEXUS";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Cascadia Code", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(225, 235);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(417, 85);
-            this.label1.TabIndex = 17;
-            this.label1.Text = "CONNECTING";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.cuiSpinner1.ArcColor = System.Drawing.Color.White;
+            this.cuiSpinner1.Location = new System.Drawing.Point(386, 185);
+            this.cuiSpinner1.Name = "cuiSpinner1";
+            this.cuiSpinner1.RingColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(34)))), ((int)(((byte)(34)))));
+            this.cuiSpinner1.RotateSpeed = 20F;
+            this.cuiSpinner1.Rotation = 143.1569F;
+            this.cuiSpinner1.Size = new System.Drawing.Size(197, 197);
+            this.cuiSpinner1.TabIndex = 0;
+            this.cuiSpinner1.Thickness = 10F;
+            this.cuiSpinner1.Load += new System.EventHandler(this.cuiSpinner1_Load);
             // 
             // LoadingPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label9);
+            this.Controls.Add(this.cuiSpinner1);
+            this.ForeColor = System.Drawing.Color.Transparent;
             this.Name = "LoadingPage";
-            this.Size = new System.Drawing.Size(985, 551);
+            this.Size = new System.Drawing.Size(985, 558);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label1;
+        private CuoreUI.Controls.cuiSpinner cuiSpinner1;
     }
 }

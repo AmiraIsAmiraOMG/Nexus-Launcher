@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|solutionrelative:nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|c:\\users\\bella\\source\\repos\\nexus gui\\nexus launcher\\nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|solutionrelative:nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|solutionrelative:nexus launcher\\screens\\settingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|c:\\users\\bella\\source\\repos\\nexus gui\\nexus launcher\\nexus launcher\\screens\\settingspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|solutionrelative:nexus launcher\\screens\\settingspage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88FFB827-AA78-407C-890F-0717A8A0A503}|Nexus Launcher\\Nexus Launcher.csproj|C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\nexus launcher\\screens\\launchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -105,32 +109,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SettingsPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.Designer.cs",
+              "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\SettingsPage.Designer.cs",
+              "ToolTip": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.Designer.cs",
+              "RelativeToolTip": "Nexus Launcher\\Screens\\SettingsPage.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwLUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:07:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SettingsPage.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\SettingsPage.cs",
-              "ToolTip": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs",
-              "RelativeToolTip": "Nexus Launcher\\Screens\\SettingsPage.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs*",
+              "RelativeToolTip": "Nexus Launcher\\Screens\\SettingsPage.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T23:43:16.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SettingsPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\SettingsPage.cs",
-              "ToolTip": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs [Design]",
-              "RelativeToolTip": "Nexus Launcher\\Screens\\SettingsPage.cs [Design]",
+              "ToolTip": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\SettingsPage.cs [Design]*",
+              "RelativeToolTip": "Nexus Launcher\\Screens\\SettingsPage.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T23:12:10.442Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Key.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\Key.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\Key.cs",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UpdatesPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\UpdatesPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\UpdatesPage.cs",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LaunchPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LaunchPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LaunchPage.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Nexus Launcher",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Nexus Launcher.csproj",
               "RelativeDocumentMoniker": "Nexus Launcher\\Nexus Launcher.csproj",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LaunchPage.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LaunchPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LaunchPage.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DllInjectionPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\DllInjectionPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\DllInjectionPage.cs",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CredditsPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\CredditsPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\CredditsPage.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LoginPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LoginPage.cs",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Key.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\Alpha\\Key.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\Alpha\\Key.cs",
@@ -230,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MainTab.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Tabs\\MainTab.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Tabs\\MainTab.cs",
@@ -241,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MainTab.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Tabs\\MainTab.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Tabs\\MainTab.cs",
@@ -253,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MainTab.Designer.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Tabs\\MainTab.Designer.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Tabs\\MainTab.Designer.cs",
@@ -265,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UpdatesPage.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\UpdatesPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\UpdatesPage.cs",
@@ -277,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\App.config",
               "RelativeDocumentMoniker": "Nexus Launcher\\App.config",
@@ -285,11 +302,12 @@
               "RelativeToolTip": "Nexus Launcher\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-06T18:26:34.329Z"
+              "WhenOpened": "2024-12-06T18:26:34.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LoginPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LoginPage.cs",
@@ -301,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AboutPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\AboutPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\AboutPage.cs",
@@ -312,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ModsPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\Mods\\ModsPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\Mods\\ModsPage.cs",
@@ -323,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LaunchPage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LaunchPage.Designer.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LaunchPage.Designer.cs",
@@ -335,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "LoginPage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\LoginPage.Designer.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\LoginPage.Designer.cs",
@@ -347,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ModsPage.cs",
               "DocumentMoniker": "C:\\Users\\bella\\source\\repos\\NEXUS GUI\\Nexus Launcher\\Nexus Launcher\\Screens\\Mods\\ModsPage.cs",
               "RelativeDocumentMoniker": "Nexus Launcher\\Screens\\Mods\\ModsPage.cs",

@@ -7,13 +7,6 @@ namespace Nexus_Launcher.Screens
         public LoadingPage()
         {
             InitializeComponent();
-            // You can add more UI elements like a progress bar here.
-            Label lblLoading = new Label
-            {
-                Text = "Loading, please wait...",
-                Dock = DockStyle.Fill,
-            };
-            this.Controls.Add(lblLoading);
 
             // Optional: Add a progress bar or other loading indicators.
         }
@@ -30,7 +23,7 @@ namespace Nexus_Launcher.Screens
             // progressBar.Value = progress;
         }
 
-        private void label1_Click(object sender, System.EventArgs e)
+        private void cuiSpinner1_Load(object sender, System.EventArgs e)
         {
 
         }

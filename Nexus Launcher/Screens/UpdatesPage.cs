@@ -41,5 +41,10 @@ namespace Nexus_Launcher.Screens
         {
 
         }
+
+        private void UpdatesPage_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

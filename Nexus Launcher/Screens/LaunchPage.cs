@@ -143,5 +143,10 @@ namespace Nexus_Launcher.Screens
         {
 
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

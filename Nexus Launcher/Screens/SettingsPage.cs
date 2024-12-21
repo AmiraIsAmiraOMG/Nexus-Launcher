@@ -22,7 +22,6 @@ namespace Nexus_Launcher.Screens
             // Load previously saved values
             textBox1.Text = Properties.Settings.Default.UserInput1;
             textBox2.Text = Properties.Settings.Default.UserInput2;
-            comboBox1.Text = Properties.Settings.Default.GameVersion;
 
             // Load the saved checkbox state
             useDCname.Checked = Properties.Settings.Default.UseDCnameChecked;
@@ -43,12 +42,10 @@ namespace Nexus_Launcher.Screens
             // Access the input from the textboxes and comboBox
             string userInput1 = textBox1.Text;
             string userInput2 = textBox2.Text;
-            string userInput3 = comboBox1.Text;
 
             // Save the values to Application Settings
             Properties.Settings.Default.UserInput1 = userInput1;
             Properties.Settings.Default.UserInput2 = userInput2;
-            Properties.Settings.Default.GameVersion = userInput3;
             Properties.Settings.Default.UseDCnameChecked = useDCname.Checked;
 
             // Save the settings
@@ -79,12 +76,6 @@ namespace Nexus_Launcher.Screens
             {
                 MessageBox.Show($"An error occurred while saving the configuration: {ex.Message}");
             }
-        }
-
-        // Event handler for the useDCname checkbox
-        private void useDCname_CheckedChanged(object sender, EventArgs e)
-        {
-
         }
 
         // Method to load Discord username from a text file
@@ -139,6 +130,31 @@ namespace Nexus_Launcher.Screens
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void useDCname_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_ContentChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void useDCname_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void eee(object sender, EventArgs e)
+        {
+
+        }
+
+        private void useDCname_CheckedChanged(object sender, EventArgs e)
         {
 
         }

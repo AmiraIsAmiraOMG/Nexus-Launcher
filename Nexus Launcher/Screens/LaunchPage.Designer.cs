@@ -38,6 +38,8 @@
             this.cuiButton2 = new CuoreUI.Controls.cuiButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.cuiButton3 = new CuoreUI.Controls.cuiButton();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -221,18 +223,43 @@
             this.cuiButton3.ImageExpand = new System.Drawing.Point(0, 0);
             this.cuiButton3.ImageOffset = new System.Drawing.Point(0, 0);
             this.cuiButton3.ImageTint = System.Drawing.Color.White;
-            this.cuiButton3.Location = new System.Drawing.Point(575, 13);
+            this.cuiButton3.Location = new System.Drawing.Point(594, 23);
             this.cuiButton3.Name = "cuiButton3";
-            this.cuiButton3.NormalBackground = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.cuiButton3.NormalBackground = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.cuiButton3.NormalOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))), ((int)(((byte)(249)))));
             this.cuiButton3.OutlineThickness = 2.5F;
             this.cuiButton3.PressedBackground = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
             this.cuiButton3.PressedImageTint = System.Drawing.Color.White;
             this.cuiButton3.PressedOutline = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(255)))), ((int)(((byte)(211)))), ((int)(((byte)(255)))));
-            this.cuiButton3.Rounding = new System.Windows.Forms.Padding(20, 20, 10, 10);
-            this.cuiButton3.Size = new System.Drawing.Size(391, 209);
+            this.cuiButton3.Rounding = new System.Windows.Forms.Padding(20);
+            this.cuiButton3.Size = new System.Drawing.Size(366, 499);
             this.cuiButton3.TabIndex = 18;
             this.cuiButton3.TextOffset = new System.Drawing.Point(0, 0);
+            // 
+            // label4
+            // 
+            this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.label4.Font = new System.Drawing.Font("Cascadia Code", 55F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label4.ForeColor = System.Drawing.Color.DarkGray;
+            this.label4.Location = new System.Drawing.Point(609, 38);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(325, 105);
+            this.label4.TabIndex = 19;
+            this.label4.Text = "NEWS";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.label6.Font = new System.Drawing.Font("Cascadia Code", 25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label6.ForeColor = System.Drawing.Color.DarkGray;
+            this.label6.Location = new System.Drawing.Point(609, 143);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(325, 101);
+            this.label6.TabIndex = 20;
+            this.label6.Text = "Under Development";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // LaunchPage
             // 
@@ -240,6 +267,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.cuiButton3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label5);
@@ -268,5 +297,7 @@
         private CuoreUI.Controls.cuiButton cuiButton2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private CuoreUI.Controls.cuiButton cuiButton3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label6;
     }
 }

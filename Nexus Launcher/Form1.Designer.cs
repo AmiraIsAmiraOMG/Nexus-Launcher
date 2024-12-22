@@ -76,6 +76,7 @@
             this.TitleBar.Size = new System.Drawing.Size(985, 77);
             this.TitleBar.TabIndex = 8;
             this.TitleBar.TabStop = false;
+            this.TitleBar.Click += new System.EventHandler(this.TitleBar_Click);
             // 
             // pictureBox1
             // 
@@ -98,6 +99,7 @@
             this.panelContent.Name = "panelContent";
             this.panelContent.Size = new System.Drawing.Size(985, 558);
             this.panelContent.TabIndex = 5;
+            this.panelContent.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContent_Paint);
             // 
             // pictureBox2
             // 

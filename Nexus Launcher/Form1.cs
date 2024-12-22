@@ -53,17 +53,31 @@ namespace Nexus_Launcher
 
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {
-            if (keyData == Keys.Enter)
-            {
-                MessageBox.Show("Enter key was pressed!");
-                return true;
-            }
-            else if (keyData == Keys.Escape)
+            // Check for specific key presses
+            if (keyData == Keys.Escape)
             {
                 TriggerOption3();
-                return true;
+                return true; // Indicate the key event was handled
+            }
+            else if (keyData == Keys.Enter)
+            {
+                // Check if DebugForm is already open
+                foreach (Form openForm in Application.OpenForms)
+                {
+                    if (openForm is DebugForm)
+                    {
+                        openForm.BringToFront(); // Bring existing DebugForm to front
+                        return true; // Key event handled
+                    }
+                }
+
+                // Open DebugForm if not already open
+                DebugForm form = new DebugForm();
+                form.ShowDialog();
+                return true; // Key event handled
             }
 
+            // Allow the base implementation to handle other keys
             return base.ProcessCmdKey(ref msg, keyData);
         }
 
@@ -128,6 +142,16 @@ namespace Nexus_Launcher
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
             LoadDefaultPage(new LaunchPage());
+        }
+
+        private void panelContent_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void TitleBar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,3 @@
+https://github.com/NeoniteDev/Carbon/raw/main/CarbonLauncher.exe
+
+And place it in this folder!

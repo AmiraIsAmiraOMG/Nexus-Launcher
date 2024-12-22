@@ -78,44 +78,6 @@ C:\Users\bella\source\repos\NEXUS GUI 00.01.13 TESTING SOURCE\Nexus Launcher\Nex
 C:\Users\bella\source\repos\NEXUS GUI 00.01.13 TESTING SOURCE\Nexus Launcher\Nexus Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\bella\source\repos\NEXUS GUI 00.01.13 TESTING SOURCE\Nexus Launcher\Nexus Launcher\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\bella\source\repos\NEXUS GUI 00.01.13 TESTING SOURCE\Nexus Launcher\Nexus Launcher\bin\Debug\System.ValueTuple.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.exe.config
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.exe
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.pdb
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Commands.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Core.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Interactions.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Rest.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Webhook.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Newtonsoft.Json.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.ValueTuple.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Commands.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Core.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Interactions.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Rest.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Webhook.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.AssemblyReference.cache
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Properties.Resources.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.AboutPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.CredditsPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.DllInjectionPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LaunchPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.SettingsPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.UpdatesPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.GenerateResource.cache
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.CoreCompileInputs.cache
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus La.DFC77BEE.Up2Date
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.exe
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.pdb
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\RestSharp.dll
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\RestSharp.xml
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LoginPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.Key.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.NexusMainWindow.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.MainTab.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LoadingPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\CuoreUI.dll
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.AssemblyReference.cache
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\obj\Debug\Nexus Launcher.pdb
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\obj\Debug\Nexus_Launcher.NexusMainWindow.resources
@@ -155,6 +117,53 @@ C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Ne
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Net.Rest.xml
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Net.Webhook.xml
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.exe.config
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.exe
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Nexus Launcher.pdb
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\CuoreUI.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Commands.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Core.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Rest.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\MyPluginFramework.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\RestSharp.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\SharpCompress.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\ZstdSharp.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Commands.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Core.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Rest.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\MyPluginFramework.pdb
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\RestSharp.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\SharpCompress.pdb
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.AssemblyReference.cache
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.DebugForm.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.NexusMainWindow.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Properties.Resources.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.AboutPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.CredditsPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.DllInjectionPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.DownloadingAssets.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.Key.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LaunchPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LoadingPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LoginPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.ScreenJSONMaker.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.SettingsPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.UpdatesPage.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.MainTab.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.GenerateResource.cache
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.CoreCompileInputs.cache
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus La.DFC77BEE.Up2Date
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.exe
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.pdb
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\bin\Debug\System.Threading.Tasks.Extensions.xml

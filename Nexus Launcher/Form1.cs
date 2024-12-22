@@ -1,8 +1,12 @@
 ﻿using System;
 using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Nexus_Launcher.Screens;
+using PluginSystem;
 
 namespace Nexus_Launcher
 {
@@ -21,7 +25,7 @@ namespace Nexus_Launcher
             TitleBar.MouseDown += TitleBar_MouseDown;
             TitleBar.MouseMove += TitleBar_MouseMove;
             TitleBar.MouseUp += TitleBar_MouseUp;
-
+;
             LoadDefaultPage(new UpdatesPage());
         }
 
@@ -110,6 +114,40 @@ namespace Nexus_Launcher
             }
         }
 
+        private void LoadAllPlugins()
+        {
+            string pluginFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Plugins");
+
+            foreach (string pluginFilePath in Directory.GetFiles(pluginFolderPath, "*.dll"))
+            {
+                try
+                {
+                    Assembly pluginAssembly = Assembly.LoadFrom(pluginFilePath);
+
+                    foreach (Type type in pluginAssembly.GetTypes())
+                    {
+                        if (typeof(IPlugin).IsAssignableFrom(type) && !type.IsInterface)
+                        {
+                            // Create an instance of the plugin
+                            IPlugin pluginInstance = (IPlugin)Activator.CreateInstance(type);
+
+                            // Execute the plugin's functionality
+                            pluginInstance.Execute();
+                        }
+                    }
+                }
+                catch (ReflectionTypeLoadException ex)
+                {
+                    string loaderExceptions = string.Join(Environment.NewLine, ex.LoaderExceptions.Select(e => e.Message));
+                    MessageBox.Show($"Error loading plugin from {pluginFilePath}: {ex.Message}\nDetails:\n{loaderExceptions}");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Error loading plugin from {pluginFilePath}: {ex.Message}");
+                }
+            }
+        }
+
         private void TitleBar_MouseUp(object sender, MouseEventArgs e)
         {
             dragging = false;
@@ -152,6 +190,11 @@ namespace Nexus_Launcher
         private void TitleBar_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            LoadAllPlugins();
         }
     }
 }

@@ -9,36 +9,6 @@
 
 <!-- PROJECT LOGO -->
 
-<p align="center">
-	<img align="center" src="https://www.neonite.net/images/neonite.png" alt="Logo" width="216" height="127">
-</p>
-<p align="center">A Fortnite private server/lobby emulator allowing you to design your dream Fortnite experience.</p>
-<p align="center">Use code Neonite in the item shop! #EpicPartner</p>
-<p align="center">
-	<a href="https://github.com/NeoniteDev/NeoniteV2/releases">Downloads</a> | 
-	<a href="https://github.com/NeoniteDev/NeoniteV2/issues">Report a Bug</a> |
-	<a href="https://dsc.gg/neonite">Discord Server</a> | 
-	<a href="https://www.neonite.net">Website</a>
-</p>
-<p align="center">
-    <img alt="Release" src="https://img.shields.io/github/v/release/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge">
-    <img alt="Stars" src="https://img.shields.io/github/stars/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge">
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-<ol>
-    <li><a href="#about-neonite-v2">About Neonite V2</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#faqs">FAQs</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#license">License</a></li>
-</ol>
-
 <!-- ABOUT NEONITEV2 -->
 ## About Neonite V2
 
@@ -50,22 +20,14 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
 ## Installation
 
 - Install the latest version of **[Node.js](https://nodejs.org/en/download/current/)**. 
-- (Download the latest **[.NET Runtime](https://dotnet.microsoft.com/download)** if NeoniteV2 is not working for you.)
-- Download the **[source code](https://github.com/NeoniteDev/NeoniteV2/releases)**.
-- Extract the source code.
-- Open `run.bat`, it should say `[Neonite]: v2.* is listening on port 5595!` (Do not close this while running Neonite V2!)	
-- Download the **[launcher](https://github.com/NeoniteDev/NeoniteV2/blob/main/public/Launcher.zip?raw=true)**.	
-- Extract the launcher and open `NeoniteLauncher.exe`.
-- Type in your username (don't use any special characters or spaces.)	
-- Click launch, and enjoy!
-
+- Open `Start Neonite.bat`, it should say `[Neonite]: v2.* is listening on port 5595!` (Do not close this while running Neonite V2!)	
 <!-- FAQs -->
 ## FAQs
 
  * How do I access Neonite V2?
    * You can access Neonite V2's dashboard at http://localhost:5595/.
  * Can I go in-game?
-   * No, however, Neonite++ is available to use for in-game support, Check it out [here](https://github.com/NeoniteDev/NeonitePP).
+   * Yes on most past versions of fortnite, however with the latest version of fortnite it can vary, Check it out [here](https://discord.gg/carbon-897532507048796210).
  * Will I get banned?
    * No, you won't get banned because Neonite V2 doesn't connect to any Epic Games related services.
  * How do I play with my friends?
@@ -74,18 +36,14 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
    * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.
 
 <!-- CONTACT -->
-## Contact
-
-Email: <a href="mailto:contact@neonite.dev">contact@neonite.dev</a>
-
-Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
+## Support
+Discord Server: [Carbon](https://discord.gg/carbon-897532507048796210) <- *you can get the launcher + backend alternatively from here since there is a possibility this repo wont be updated*
 
 
 <!-- CREDITS -->
 ## Credits
 
 ### Used APIs
-<img src="https://fortnite-api.com/assets/img/logo.png" width="15" title="Fortnite-API"> [Fortnite-API](https://fortnite-api.com/) developed by [Officer](https://github.com/NotOfficer) <br>
 <img src="https://api.nitestats.com/v1/static/ns-logo.png" width="15" title="NiteStats-API"> [NiteStats API](https://nitestats.com/) developed by [VastBlast](https://github.com/VastBlast)
 
 ### Contributors
@@ -93,7 +51,9 @@ Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 | Contributor | Helped with |
 | ----------- | ----------- |
 | [Kemo](https://github.com/kem0o)  | Original creator and maintainer |
-| [Beat-YT](https://github.com/Beat-YT)   | Current maintainer |
+| [Hybrid](https://github.com/HybridFNBR)   | Current maintainer |
+| [Andre](https://github.com/JustAndr3h)   | Pull requests |
+| [Beat-YT](https://github.com/Beat-YT)   | maintainer |
 | [Amrsatrio](https://github.com/Amrsatrio)  | Write-up of profile.js and API-reversing |
 | [Kyiro](https://github.com/Kyiro)   | Pull requests |
 | [iDrDoge](https://github.com/iDrDoge)   | Pull requests |

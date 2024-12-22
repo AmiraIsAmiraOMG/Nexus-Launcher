@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const axios = require("axios");
 
 // @author armisto#2174
 module.exports = {
@@ -151,22 +150,40 @@ module.exports = {
 
     readProfile(accountId, profileId) {
         try {
-            return JSON.parse(fs.readFileSync(path.join(__dirname, `/config/${accountId}/profiles/profile_${profileId}.json`), "utf8"));
+            return JSON.parse(fs.readFileSync(path.join(__dirname, `/profile/${accountId}/profiles/profile_${profileId}.json`), "utf8"));
         } catch (e) {
             return null;
         }
     },
-
     readProfileTemplate(profileId) {
-        // console.log(`/config_template/profiles/profile_${profileId}.json`);
         try {
-            return JSON.parse(fs.readFileSync(path.join(__dirname, `/config_template/profiles/profile_${profileId}.json`), "utf8"));
+            return JSON.parse(fs.readFileSync(path.join(__dirname, `/profile_template/profiles/profile_${profileId}.json`), "utf8"));
         } catch (e) {
             return null;
         }
     },
 
     saveProfile(accountId, profileId, data) {
-        fs.writeFileSync(path.join(__dirname, `/config/${accountId}/profiles/profile_${profileId}.json`), JSON.stringify(data, null, 2));
-    }
+        fs.writeFileSync(path.join(__dirname, `/profile/${accountId}/profiles/profile_${profileId}.json`), JSON.stringify(data, null, 2));
+    },
+
+    readLockerProfile(accountId, version) {
+        try {
+            return JSON.parse(fs.readFileSync(path.join(__dirname, `/profile/${accountId}/profiles/lockerv${version}.json`), "utf8"));
+        } catch (e) {
+            return null;
+        }
+    },
+
+    readLockerTemplate(version) {
+        try {
+            return JSON.parse(fs.readFileSync(path.join(__dirname, `/profile_template/profiles/lockerv${version}.json`), "utf8"));
+        } catch (e) {
+            return null;
+        }
+    },
+
+    saveLocker(accountId, version, data) {
+        fs.writeFileSync(path.join(__dirname, `/profile/${accountId}/profiles/lockerv${version}.json`), JSON.stringify(data, null, 2));
+    },
 };

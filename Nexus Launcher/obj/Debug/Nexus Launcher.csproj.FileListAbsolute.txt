@@ -101,7 +101,6 @@ C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Ne
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.CredditsPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.DllInjectionPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.LaunchPage.resources
-C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.ModsPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.SettingsPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.UpdatesPage.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus Launcher.csproj.GenerateResource.cache
@@ -158,3 +157,4 @@ C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Ne
 C:\Users\bella\Downloads\Nexus-Launcher-main\Nexus Launcher\bin\Debug\Discord.Net.WebSocket.xml
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.DebugForm.resources
 C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.DownloadingAssets.resources
+C:\Users\bella\source\repos\NEXUS GUI\Nexus Launcher\Nexus Launcher\obj\Debug\Nexus_Launcher.Screens.ScreenJSONMaker.resources

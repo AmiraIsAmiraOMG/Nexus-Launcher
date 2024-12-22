@@ -164,11 +164,11 @@
     <Compile Include="Screens\LoginPage.Designer.cs">
       <DependentUpon>LoginPage.cs</DependentUpon>
     </Compile>
-    <Compile Include="Screens\Mods\ModsPage.cs">
+    <Compile Include="Screens\ScreenJSONMaker.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Screens\Mods\ModsPage.Designer.cs">
-      <DependentUpon>ModsPage.cs</DependentUpon>
+    <Compile Include="Screens\ScreenJSONMaker.Designer.cs">
+      <DependentUpon>ScreenJSONMaker.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\SettingsPage.cs">
       <SubType>UserControl</SubType>
@@ -228,8 +228,8 @@
     <EmbeddedResource Include="Screens\LoginPage.resx">
       <DependentUpon>LoginPage.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Screens\Mods\ModsPage.resx">
-      <DependentUpon>ModsPage.cs</DependentUpon>
+    <EmbeddedResource Include="Screens\ScreenJSONMaker.resx">
+      <DependentUpon>ScreenJSONMaker.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Screens\SettingsPage.resx">
       <DependentUpon>SettingsPage.cs</DependentUpon>

@@ -96,5 +96,10 @@ namespace Nexus_Launcher
         {
             LoadDefaultPage(new AboutPage());
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+            LoadDefaultPage(new ScreenJSONMaker());
+        }
     }
 }

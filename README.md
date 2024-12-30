@@ -6,7 +6,6 @@ Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives
 
 ## 🚀 What Nexus Can Do
 
-- **Launch Without Anti-Cheat**: Play offline or in custom environments without worrying about anti-cheat.
 - **Supports Most Versions**: Launch almost any Fortnite version, including the latest.
 - **Mod Support**: Customize your gameplay with `.rift`, `.pak` & `.nexus` mods.
 - **DLL Injection**: Add functionality or tweaks by injecting DLLs on launch.

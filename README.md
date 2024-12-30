@@ -1,6 +1,6 @@
-# 🎮 NexusGUI - Fortnite Launcher
+# 🎮 Nexus - Fortnite Launcher
 
-Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives you the freedom to play your way! Whether you want to bypass anti-cheat, explore old and new game versions, inject custom mods or DLLs, or join custom multiplayer servers, NexusGUI has you covered.
+Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives you the freedom to play your way! Whether you want to bypass anti-cheat, explore old and new game versions, inject custom mods or DLLs, or join custom multiplayer servers, Nexus has you covered.
 
 ---
 
@@ -24,16 +24,16 @@ Welcome to **Nexus** — a powerful and easy-to-use Fortnite launcher that gives
 
 ### Installation
 
-1. Download the latest version of NexusGUI from the [Releases](https://github.com/yourusername/nexusgui/releases) page.
+1. Download the latest version of Nexus from the [Releases](https://github.com/yourusername/Nexus/releases) page.
 2. Extract the downloaded `.zip` file to your desired location.
-3. Run `NexusGUI.exe`.
+3. Run `Nexus.exe`.
 
 ---
 
 ## 🕹️ How to Use Nexus
 
 1. **Launch Nexus**:  
-   Open `NexusGUI.exe` to access the interface.
+   Open `Nexus.exe` to access the interface.
 
 2. **Choose Your Version**:  
    Select the Fortnite version you want to launch from the settings page.
@@ -71,7 +71,7 @@ We'd love to hear from you!
 
 ## ⚠️ Disclaimer
 
-**NexusGUI is not affiliated with Epic Games or Fortnite**. This tool is for educational and offline use only. Using it to modify the game or bypass anti-cheat on official servers may result in a ban. Please use responsibly!
+**Nexus is not affiliated with Epic Games or Fortnite**. This tool is for educational and offline use only. Using it to modify the game or bypass anti-cheat on official servers may result in a ban. Please use responsibly!
 
 ---
 
@@ -81,4 +81,4 @@ This project is licensed under the **GNU Lesser General Public License v2.1 (LGP
 
 ---
 
-### 🌟 If you love NexusGUI, give us a star on GitHub and help us grow!
+### 🌟 If you love Nexus, give us a star on GitHub and help us grow!
